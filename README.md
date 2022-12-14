@@ -1,4 +1,4 @@
-### Hi there 👋 My name's is Cordell and I am an IT specialist. 
+### Hi there 👋 My name's is Cordell and I'm an IT specialist from the Future :). 
 
 <!--
 **rudolphcordell/rudolphcordell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
